@@ -26,5 +26,7 @@
 
 GitHub Link : https://github.com/DonggeunJung/MazeBall
 
+Download APK file : https://github.com/DonggeunJung/MazeBall/blob/master/Ext/mazeball.zip
+
 Any question => Email : topsan72@gmail.com / Author : Donggeun Jung (Dennis)
 
